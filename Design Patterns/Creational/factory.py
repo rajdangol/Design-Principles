@@ -1,0 +1,2 @@
+class Interviewer:
+    def askQuestions():
